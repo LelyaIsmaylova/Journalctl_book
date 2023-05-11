@@ -1,7 +1,5 @@
-:date: 2023-05-04
-:summary: SSMTP и электронная почта
-:status: published
-:author: Киселев Г. А., Дорохович В. А., Семенова Д. К.
+:Дата: 2023-05-11
+:author: Клестова Л.А, Куленкамп Д.К
 
 .. default-role:: code 
 .. contents:: Содержание
